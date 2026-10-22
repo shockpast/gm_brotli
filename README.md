@@ -1,6 +1,6 @@
-# gmsv_brotli
+# gm_brotli
 
-[brotli](https://crates.io/crates/brotli) bindings for Garry's Mod
+[brotli](https://crates.io/crates/brotli) bindings for Garry's Mod, published only for archiving purposes (written for my specific tasks) so don't expect any support.
 
 ## why
 
